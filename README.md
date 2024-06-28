@@ -1,2 +1,2 @@
 # Apple-Hello-Animation
-AEP File for apple's hello animation
+AEP File for Apple's Hello Animation.
